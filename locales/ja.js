@@ -154,7 +154,7 @@ const ja = {
     "uploadWallpaperText": "壁紙をアップロード",    // 文は短いまま
     "backupText": "バックアップ",
     "restoreText": "復元",
-    "rangColor": "色を選択",    // Keep this short
+    "rangColor": "色を選択",    // 文は短いまま
     "enableDarkMode": "ダークモード（実験的）",
     "enableDarkModeInfo": "ダークモードテーマを有効化",
     "opactityTitle": "不透明度",
